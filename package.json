@@ -1,7 +1,7 @@
 {
   "name": "angular-hotkeys-trigger",
   "author": ["Wes Cruver","Moataz Abdallh(Trigger Method)"],
-  "version": "1.6.1",
+  "version": "1.7.0",
   "license": "MIT",
   "description": "Automatic keyboard shortcuts for your Angular Apps with trigger method "main": "build/hotkeys.js",
   "keywords": [
