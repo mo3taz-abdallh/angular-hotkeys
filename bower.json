@@ -1,19 +1,22 @@
 {
-  "name": "angular-hotkeys",
-  "main": [
-    "build/hotkeys.js",
-    "build/hotkeys.css"
+  "name": "angular-hotkeys-trigger",
+  "version": "1.6.1",
+  "authors": [
+    "moataz.abdallh@gmail.com"
   ],
+  "description": "angular hotkeys with trigger method",
+  "main": "build/hotkeys.js",
+  "keywords": [
+    "angular",
+    "hotkeys"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/mo3taz-abdallh",
   "ignore": [
     "**/.*",
     "node_modules",
-    "components",
+    "bower_components",
     "test",
-    "example"
-  ],
-  "devDependencies": {
-    "mousetrap": "~1.5.2",
-    "angular-mocks": "~1.2.15",
-    "angular-route": "~1.2.15"
-  }
+    "tests"
+  ]
 }
