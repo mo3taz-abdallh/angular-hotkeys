@@ -11,12 +11,17 @@
     "hotkeys"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/mo3taz-abdallh",
+  "homepage": "git://github.com/mo3taz-abdallh",
   "ignore": [
     "**/.*",
     "node_modules",
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "dependencies": {
+    "angular-mocks": "~1.2.15",
+    "angular-route": "~1.2.15",
+    "mousetrap": "~1.5.2"
+  }
 }
